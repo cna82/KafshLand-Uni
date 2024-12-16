@@ -1,0 +1,14 @@
+.active {
+    color: orangered !important;
+}
+
+nav .active::after {
+    content: " 🔸";
+}
+
+.navbar {
+    font-size: .8rem !important;
+}
+.basket-route{
+    font-size: 1.5rem !important;
+}

@@ -1,0 +1,17 @@
+header.hero {
+    background-color: #7a3d3d !important;
+}
+section.hero{
+    background-color: #7a3d3d !important;
+
+}
+
+.about-container {
+    font-family: 'IRANYekan', sans-serif !important;
+
+}
+.about-container .about-img{
+    width: 60%;
+    height: 12rem !important;
+    border: .8rem double rgb(255, 227, 149);
+}

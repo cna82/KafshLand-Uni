@@ -1,0 +1,7 @@
+.basket-container {
+    font-family: 'IRANYekan', sans-serif !important;
+}
+
+.basket-container .close-item {
+    cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.my-icon{
+    background-color: red !important;
+    border-radius: 50%;
+}
+.prod-img{
+    width:100% !important;
+    height: 21rem !important;
+}
+ul{
+    list-style-type: none !important;
+}

@@ -1,0 +1,7 @@
+.single-container {
+    margin: 8rem auto !important;
+}
+
+.single-container .single-image {
+    border-left: 1px solid gray;
+}

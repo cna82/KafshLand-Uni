@@ -1,0 +1,13 @@
+.prod-image {
+    width: 15rem !important;
+    height: 15rem !important;
+    border-bottom: 1px solid rgb(170, 170, 170);
+}
+
+.single-item {
+    cursor: pointer;
+}
+
+.btn-disabled {
+    cursor: not-allowed !important;
+}

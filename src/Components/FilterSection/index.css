@@ -1,0 +1,7 @@
+.filter-container {
+    font-family: 'IRANYekan', sans-serif !important;
+    border-radius: .8rem;
+}
+.filter-container .search-icon{
+    cursor: pointer;
+}

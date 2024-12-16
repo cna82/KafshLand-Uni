@@ -1,0 +1,17 @@
+/* Gloabal css styles  */
+/* font imports Iran Sans  */
+@import url('https://fonts.cdnfonts.com/css/iranian-sans');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    margin-top: 4.5rem !important;
+    font-family: 'Iranian Sans', sans-serif !important;
+    background-color: #ddd !important;
+}
