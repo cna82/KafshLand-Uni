@@ -35,6 +35,9 @@ const ProductsPage = ({ onSetSingleItem, basket, onSetBasket }) => {
   const handleStopPropagation = (event) => {
     event.stopPropagation();
   };
+  const handleShowAll = () => {
+    setData(PRODUCTS);
+  };
   return (
     <>
       <div className="container mt-6">
@@ -116,6 +119,12 @@ const ProductsPage = ({ onSetSingleItem, basket, onSetBasket }) => {
             <>
               <div className="col-12 d-flex justify-content-center align-items-center">
                 <img src="./Images/NotFound/0.png" alt="Not found image" />
+                <button
+                  className="btn btn-outline-danger"
+                  onClick={handleShowAll}
+                >
+                  تلاش مجدد
+                </button>
               </div>
             </>
           )}
